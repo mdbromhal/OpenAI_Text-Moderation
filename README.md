@@ -1,5 +1,5 @@
 # OpenAI_Text-Moderation
-ABSTRACT: Analyzing how OpenAI moderates text
+ABSTRACT: Analyzing How OpenAI Classifies & Moderates Text 
 
 Source: https://github.com/malywut/gpt_examples
 
